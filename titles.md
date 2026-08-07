@@ -1,1 +1,8 @@
- # Titles\n\n- A River Runs Through It\n- Fight club\n- 12 Years a slave\n- The Big Short\n- 12 Monkeys
+  #  Titles
+  
+  - River Runs Through It 
+  - Fight Club   
+  - 12 Years a Slave 
+  - The Big Short  
+  - 12 Monkeys
+  
